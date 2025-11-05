@@ -5,4 +5,4 @@
 [node name="Label" type="Label" parent="."]
 offset_right = 40.0
 offset_bottom = 23.0
-text = "YOOO BOYOS"
+text = "YOOO BOYOS test"
