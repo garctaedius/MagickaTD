@@ -7,3 +7,12 @@ offset_right = 40.0
 offset_bottom = 23.0
 text = "YOOO BOYOS
 time for a game, LOL"
+
+[node name="Label2" type="Label" parent="."]
+offset_left = 1.0
+offset_top = 99.0
+offset_right = 216.0
+offset_bottom = 243.0
+text = "indeed my friends
+"
+metadata/_edit_use_anchors_ = true
