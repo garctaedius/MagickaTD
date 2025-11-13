@@ -11,8 +11,15 @@ config_version=5
 [application]
 
 config/name="Magicka Td"
+config/description="The boys are making a game. Cork studios productions."
+run/main_scene="uid://bbgb87pgq16cw"
 config/features=PackedStringArray("4.5", "Mobile")
 config/icon="res://icon.svg"
+
+[display]
+
+window/size/viewport_width=720
+window/size/viewport_height=480
 
 [editor]
 
@@ -21,4 +28,6 @@ version_control/autoload_on_startup=true
 
 [rendering]
 
+textures/canvas_textures/default_texture_filter=0
 renderer/rendering_method="mobile"
+2d/snap/snap_2d_transforms_to_pixel=true
